@@ -6,6 +6,7 @@ Features
 
     Add Task: Easily add tasks 
     Delete Task: Remove completed or unnecessary tasks.
+    Mark Completed Task:You can Mark Complete Tasks
     Local Storage: All tasks are stored locally, providing data persistence.
     Responsive Design: User-friendly interface that adapts to different screen sizes.
 
@@ -25,7 +26,8 @@ Usage
 
     Adding a Task:
         Click on the "Add Task" button.
-
+    Completing A Task: 
+        Click on complete button to mark the as completed
     Deleting a Task:
         Click on the task you want to delete.
         Click the "Delete" button to remove the task.
